@@ -1,4 +1,4 @@
-# Real-time IMU 3D Visualization
+# Real-time IMU 3D Visualization (without ROS)
 
 A comprehensive real-time visualization system for IMU (Inertial Measurement Unit) sensors with 3D orientation display and live data plots.
 
